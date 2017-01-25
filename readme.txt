@@ -1,0 +1,1 @@
+Adding slider to the web-site.
